@@ -49,7 +49,7 @@ DistilBERT-powered API that classifies any URL into **11 categories** (News, Edu
 ![](https://img.shields.io/badge/Transformers-FFD21E?logo=huggingface&logoColor=black)
 ![](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 
-🔗 [Model on HuggingFace](https://huggingface.co/SanandaDutta/website-category-distilbert) · [Repo](https://github.com/Sananda-Dutta/REPO_NAME_HERE)
+🔗 [Model on HuggingFace](https://huggingface.co/SanandaDutta/website-category-distilbert) · [Repo](https://github.com/Sananda-Dutta/website-category-classifier)
 
 </td>
 <td width="50%" valign="top">
@@ -68,7 +68,7 @@ Production-grade RAG chatbot over **PDF, DOCX, images, web URLs and audio**, wit
 ![](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-🔗 [Repo](https://github.com/Sananda-Dutta/REPO_NAME_HERE) · *work in progress*
+🔗 [Repo](https://github.com/Sananda-Dutta/Omnirag) · *work in progress*
 
 </td>
 </tr>
