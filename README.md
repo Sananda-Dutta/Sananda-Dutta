@@ -100,10 +100,10 @@ flowchart LR
 
 <!-- Replace REPO_NAME_HERE with your real repo names -->
 <a href="https://github.com/Sananda-Dutta/REPO_NAME_HERE">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda-Dutta&repo=REPO_NAME_HERE&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda-Dutta&repo=website-category-classifier&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Sananda-Dutta/REPO_NAME_HERE_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda-Dutta&repo=REPO_NAME_HERE_2&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sananda-Dutta&repo=Omnirag&theme=tokyonight&hide_border=true"/>
 </a>
 
 </details>
